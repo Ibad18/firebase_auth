@@ -1,0 +1,37 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+form{
+  color: purple;
+  width: 300px;
+  height: 100%;
+  padding: 20px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2px solid purple;
+  border-radius: 10px;
+}
+input{
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+button{
+  border: none;
+  background-color: purple;
+  padding: 10px;
+  width: 30%;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+}
+span{
+  cursor: pointer;
+  color: blue;
+}
+h4{
+  color: red;
+}
